@@ -59,7 +59,10 @@ main() {
 
   log "INFO" "Creating backup archive: $BACKUP_FILE"
 
-  if tar -czf "$BACKUP_FILE" "${valid_sources[@]}"; then
+  if tar -czf "$BACKUP_FILE" -C "$PROJECT_DIR" \
+  "test-data/sample-app" \
+  "test-data/app-config" \
+  "test-data/app-logs"; then
     log "INFO" "Backup archive created successfully"
   else
     log "ERROR" "Backup archive creation failed"
