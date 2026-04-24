@@ -1,0 +1,59 @@
+[2026-04-24 05:09:25] INFO: Starting backup process
+[2026-04-24 05:09:25] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/sample-app
+[2026-04-24 05:09:25] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-config
+[2026-04-24 05:09:25] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-logs
+[2026-04-24 05:09:25] INFO: Creating backup archive: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/backups/backup-2026-04-24-05-09-25.tar.gz
+[2026-04-24 05:09:25] INFO: Backup archive created successfully
+[2026-04-24 05:09:25] INFO: Backup file size: 4.0K
+[2026-04-24 05:09:25] INFO: Applying retention policy: keeping latest 7 backups
+[2026-04-24 05:09:25] INFO: Backup process completed successfully in 0s
+[2026-04-24 05:16:51] INFO: Starting backup process
+[2026-04-24 05:16:51] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/sample-app
+[2026-04-24 05:16:51] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-config
+[2026-04-24 05:16:51] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-logs
+[2026-04-24 05:16:51] INFO: Creating backup archive: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/backups/backup-2026-04-24-05-16-51.tar.gz
+[2026-04-24 05:16:51] INFO: Backup archive created successfully
+[2026-04-24 05:16:51] INFO: Backup file size: 4.0K
+[2026-04-24 05:16:51] INFO: Applying retention policy: keeping latest 7 backups
+[2026-04-24 05:16:51] INFO: Backup process completed successfully in 0s
+[2026-04-24 05:20:20] INFO: Starting backup process
+[2026-04-24 05:20:20] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/sample-app
+[2026-04-24 05:20:20] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-config
+[2026-04-24 05:20:20] WARNING: Source directory missing, skipping: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-logs
+[2026-04-24 05:20:20] INFO: Creating backup archive: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/backups/backup-2026-04-24-05-20-20.tar.gz
+[2026-04-24 05:20:20] INFO: Backup archive created successfully
+[2026-04-24 05:20:20] INFO: Backup file size: 4.0K
+[2026-04-24 05:20:20] INFO: Applying retention policy: keeping latest 7 backups
+[2026-04-24 05:20:20] INFO: Backup process completed successfully in 0s
+[2026-04-24 05:37:02] INFO: Starting backup process
+[2026-04-24 05:37:02] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/sample-app
+[2026-04-24 05:37:02] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-config
+[2026-04-24 05:37:02] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-logs
+[2026-04-24 05:37:02] INFO: Creating backup archive: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/backups/backup-2026-04-24-05-37-02.tar.gz
+[2026-04-24 05:37:02] INFO: Backup archive created successfully
+[2026-04-24 05:37:02] INFO: Backup file size: 4.0K
+[2026-04-24 05:37:02] INFO: Applying retention policy: keeping latest 7 backups
+[2026-04-24 05:37:02] INFO: Backup process completed successfully in 0s
+[2026-04-24 05:56:48] INFO: Starting backup process
+[2026-04-24 05:56:48] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/sample-app
+[2026-04-24 05:56:48] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-config
+[2026-04-24 05:56:48] WARNING: Source directory missing, skipping: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-logs
+[2026-04-24 05:56:48] INFO: Creating backup archive: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/backups/backup-2026-04-24-05-56-48.tar.gz
+[2026-04-24 05:56:48] INFO: Backup archive created successfully
+[2026-04-24 05:56:48] INFO: Backup file size: 4.0K
+[2026-04-24 05:56:48] INFO: Applying retention policy: keeping latest 7 backups
+[2026-04-24 05:56:48] INFO: Backup process completed successfully in 0s
+[2026-04-24 05:58:08] INFO: Starting backup process
+[2026-04-24 05:58:08] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/sample-app
+[2026-04-24 05:58:08] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-config
+[2026-04-24 05:58:08] INFO: Source directory found: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-logs
+[2026-04-24 05:58:08] INFO: Creating backup archive: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/backups/backup-2026-04-24-05-58-08.tar.gz
+[2026-04-24 05:58:08] INFO: Backup archive created successfully
+[2026-04-24 05:58:08] INFO: Backup file size: 4.0K
+[2026-04-24 05:58:08] INFO: Applying retention policy: keeping latest 7 backups
+[2026-04-24 05:58:08] INFO: Backup process completed successfully in 0s
+[2026-04-24 06:00:49] INFO: Starting backup process
+[2026-04-24 06:00:49] WARNING: Source directory missing, skipping: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/sample-app
+[2026-04-24 06:00:49] WARNING: Source directory missing, skipping: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-config
+[2026-04-24 06:00:49] WARNING: Source directory missing, skipping: /Users/marameref/Documents/platform-engineering-zero-to-production/Phase-0-Foundations/backup-system/test-data/app-logs
+[2026-04-24 06:00:49] ERROR: No valid source directories found. Backup cancelled.
